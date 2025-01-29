@@ -1,0 +1,445 @@
+[
+  {
+    "phnTitle": "Oneplus 12",
+    "description": "Introducing the highly anticipated, cutting-edge Oneplus 12 - a technological marvel that redefines the boundaries of innovation and performance. Prepare to be captivated by its sleek design, lightning-fast processing, and unparalleled user experience. Get ready to experience the future of smartphones like never before with the Oneplus 12.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "256gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 57900,
+    "price2": 64900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 980,
+    "src": "oneplus-images/oneplus_12.png",
+    "color1": "green",
+    "color2": "grey",
+    "color3": "black",
+    "color": ["green", "grey", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Barnes",
+        "rating": 5,
+        "review": "The OnePlus 12 exceeded all my expectations with its lightning-fast performance and stunning camera quality. Definitely worth the investment!"
+      },
+      {
+        "author": "Blake",
+        "rating": 3,
+        "review": "The battery life on the OnePlus 12 is decent, but I wish it could last a bit longer. Overall, a solid smartphone option"
+      },
+      {
+        "author": "Shiva",
+        "rating": 2,
+        "review": "Not Upto the Expected level. price is too High"
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus 12R",
+    "description": "Introducing the Oneplus 12r - a masterpiece of innovation and style, redefining what it means to be a flagship smartphone with its cutting-edge features and impeccable design. Prepare to be blown away by the sheer brilliance of the Oneplus 12r - a true superphone in every sense of the word.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "256gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 35900,
+    "price2": 37900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 1080,
+    "src": "oneplus-images/oneplus_12r.png",
+    "color1": "grey",
+    "color2": "black",
+    "color3": "green",
+    "color": ["grey", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Thomas",
+        "rating": 5,
+        "review": "The Oneplus 12r impresses with its sleek design and lightning-fast performance, setting a new standard in the smartphone industry."
+      },
+      {
+        "author": "Mike",
+        "rating": 3,
+        "review": "While the camera quality is good, some users may find the lack of a telephoto lens disappointing compared to other flagship phones in the same price range."
+      },
+      {
+        "author": "Carter",
+        "rating": 2,
+        "review": "Unfortunately, the battery life of the Oneplus 12r leaves much to be desired, requiring frequent recharges throughout the day."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus Nord CE4 Lite",
+    "description": "The OnePlus Nord CE4 Lite is a sleek and powerful smartphone that combines cutting-edge technology with a minimalist design. Its advanced features and top-notch performance make it a super choice for tech-savvy users looking for a high-quality device.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 17999,
+    "price2": 20999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 680,
+    "src": "oneplus-images/oneplus_nord_ce4_lite.png",
+    "color1": "blue",
+    "color2": "silver",
+    "color3": "grey",
+    "color": ["blue", "silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Jessica",
+        "rating": 5,
+        "review": "The Oneplus Nord CE 4 Lite is a sleek and stylish phone with a lightning-fast processor, perfect for multitasking and gaming on the go."
+      },
+      {
+        "author": "Jonas",
+        "rating": 3,
+        "review": "The camera quality on the Oneplus Nord CE 4 Lite is decent but could be improved for better low-light performance and color accuracy."
+      },
+      {
+        "author": "Alex",
+        "rating": 2,
+        "review": "The battery life on the Oneplus Nord CE 4 Lite is disappointing, requiring frequent charges throughout the day to keep up with moderate usage."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus Nord CE3 Lite",
+    "description": "The OnePlus Nord CE3 Lite is a sleek and sophisticated smartphone that combines power and style effortlessly. With its cutting-edge features and stunning design, this device is sure to impress even the most discerning tech enthusiasts.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 17900,
+    "price2": 19900,
+    "ratingsAverage": 4,
+    "ratingQuantity": 790,
+    "src": "oneplus-images/oneplus_nord_ce3_lite.png",
+    "color1": "grey",
+    "color2": "lime",
+    "color3": "black",
+    "color": ["grey", "lime"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Govindh",
+        "rating": 5,
+        "review": "The OnePlus Nord CE 3 Lite is a super sleek and stylish phone with impressive performance that won't break the bank. The camera quality is top-notch, making it perfect for capturing all your memorable moments."
+      },
+      {
+        "author": "Vijay",
+        "rating": 3,
+        "review": "While the battery life is decent, it could be better for heavy users who are constantly on their phone. Additionally, the display could be a bit brighter for better outdoor visibility, but overall, it gets the job done."
+      },
+      {
+        "author": "Ajith",
+        "rating": 2,
+        "review": "One downside of the OnePlus Nord CE 3 Lite is the lack of expandable storage, which can be frustrating for users who like to store a lot of content on their phone. Additionally, the speaker quality could be improved for better audio experience."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus Nord CE4",
+    "description": "The OnePlus Nord CE 4 is a sleek and sophisticated smartphone that combines cutting-edge technology with stunning design, delivering an unparalleled user experience. Get ready to be impressed by its superlative features and exceptional performance!",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 22900,
+    "price2": 24900,
+    "ratingsAverage": 4,
+    "ratingQuantity": 1980,
+    "src": "oneplus-images/oneplus_nord_ce4.png",
+    "color1": "grey",
+    "color2": "lime",
+    "color3": "black",
+    "colo": ["grey", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Surya",
+        "rating": 5,
+        "review": "The OnePlus Nord CE is a sleek and stylish smartphone with a gorgeous display and fast performance."
+      },
+      {
+        "author": "Prakash",
+        "rating": 3,
+        "review": "While the camera quality is good for everyday use, it may not satisfy professional photographers or photography enthusiasts"
+      },
+      {
+        "author": "karthik",
+        "rating": 2,
+        "review": "The battery life of the OnePlus Nord CE could be better, as it tends to drain quickly with heavy usage."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus Nord 4",
+    "description": "The OnePlus Nord 4 is a super sleek and powerful smartphone, embodying the perfect blend of style and performance. With cutting-edge features and exceptional design, it's a must-have for those who demand nothing but the best.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 27900,
+    "price2": 29000,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 380,
+    "src": "oneplus-images/oneplus_nord_4.png",
+    "color1": "lightcyan",
+    "color2": "silver",
+    "color3": "black",
+    "color": ["lightcyan", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Mary",
+        "rating": 5,
+        "review": "The Oneplus Nord 4 has a sleek design and stunning display, making it a must-have for tech enthusiasts looking for an affordable yet high-quality smartphone"
+      },
+      {
+        "author": "Jack",
+        "rating": 3,
+        "review": "While the camera performance is good overall, it may not be the best choice for those looking for professional grade photography capabilities."
+      },
+      {
+        "author": "Rosy",
+        "rating": 2,
+        "review": "The battery life on the Oneplus Nord 4 could be improved, as it may not last as long as some other smartphones on the market."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus Open",
+    "description": "The Oneplus Open Mobile is a next-gen marvel, blending sleek design with unparalleled performance. Elevate your mobile experience to new heights with this cutting-edge device.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 159999,
+    "price2": 113999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 480,
+    "src": "oneplus-images/oneplus_open.png",
+    "color1": "grey",
+    "color2": "black",
+    "color3": "silver",
+    "color": ["grey", "black", "silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Evengille",
+        "rating": 5,
+        "review": "The Oneplus open is a sleek and stylish phone with lightning-fast performance, perfect for those who love cutting-edge techn"
+      },
+      {
+        "author": "Jenifer",
+        "rating": 3,
+        "review": "While the battery life could be better, the camera quality and display on the Oneplus open are top-notch, making it a great choice for everyday use."
+      },
+      {
+        "author": "Derrik Game",
+        "rating": 2,
+        "review": "Unfortunately, the Oneplus open tends to overheat during extended use and the lack of expandable storage can be a deal breaker for users with large media libraries."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus 9 Pro",
+    "description": "Introducing the OnePlus 9 Pro - a super sleek and powerful mobile device that combines cutting-edge technology with elegant design. Experience superior performance and stunning visuals in the palm of your hand.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 63999,
+    "price2": 68999,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 980,
+    "src": "oneplus-images/oneplus_9_pro.png",
+    "color1": "grey",
+    "color2": "silver",
+    "color3": "blue",
+    "color": ["grey", "blue"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Angelina",
+        "rating": 5,
+        "review": "This smartphone is a powerhouse with its stunning display and lightning-fast performance, making it a top contender in the market."
+      },
+      {
+        "author": "Angela",
+        "rating": 3,
+        "review": "While the camera quality is impressive, some users have reported issues with battery life and overheating during prolonged use."
+      },
+      {
+        "author": "Parthiban",
+        "rating": 2,
+        "review": "Unfortunately, the high price tag may not be justified by the lack of innovative features and average customer service experience."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus 9RT",
+    "description": "The Oneplus 9rt mobile is a sleek and powerful device that combines cutting-edge technology with a super sleek design. It's the perfect choice for those who demand nothing but the best in their mobile experience.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 39900,
+    "price2": 46900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 983,
+    "src": "oneplus-images/oneplus_9rt.png",
+    "color1": "silver",
+    "color2": "green",
+    "color3": "black",
+    "color": ["silver", "grey"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Parthiban",
+        "rating": 5,
+        "review": "A sleek and powerful device with impressive performance, perfect for tech enthusiasts looking for a flagship experience. Its vibrant display and fast charging capabilities make it a top contender in the smartphone market."
+      },
+      {
+        "author": "Ravi",
+        "rating": 3,
+        "review": "While the Oneplus 9 RT offers great value for the price, some users may find the camera quality to be lacking compared to other flagship devices. The software experience is smooth, but there may be occasional bugs that need to be ironed out."
+      },
+      {
+        "author": "Vikram",
+        "rating": 2,
+        "review": "Disappointingly, the battery life on the Oneplus 9 RT falls short of expectations, struggling to last a full day with moderate usage. Additionally, some users have reported occasional overheating issues, making it a less than ideal choice for heavy multitasking."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus 9",
+    "description": "Introducing the impressive Oneplus 9 mobile, a technological marvel with unparalleled speed and performance. Elevate your mobile experience with this super sleek and innovative device.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 28900,
+    "price2": 32900,
+    "ratingsAverage": 3,
+    "ratingQuantity": 683,
+    "src": "oneplus-images/oneplus_9.png",
+    "color1": "lightblue",
+    "color2": "silver",
+    "color3": "grey",
+    "color": ["lightblue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Renny",
+        "rating": 5,
+        "review": "Oneplus 9 is a sleek and stunning device that delivers top-notch performance and a fantastic camera experience. It's a real winner for tech enthusiasts looking for a premium smartphone upgrade."
+      },
+      {
+        "author": "Renold",
+        "rating": 3,
+        "review": "While the Oneplus 9 impresses with its 120Hz display and fast charging capabilities, some users may find the camera quality lacking compared to other flagship phones in its price range."
+      },
+      {
+        "author": "Arnold",
+        "rating": 2,
+        "review": "On the downside, the Oneplus 9 falls short in battery life and durability, making it a less-than-ideal choice for users who rely heavily on their phone throughout the day."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus 9R",
+    "description": "Introducing the super sleek and highly advanced OnePlus 9R mobile, elevating your smartphone experience to a whole new level. With cutting-edge technology and stunning design, this device is sure to impress even the most discerning tech enthusiasts.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 26900,
+    "price2": 27900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 1080,
+    "src": "oneplus-images/oneplus_9r.png",
+    "color1": "lightblue",
+    "color2": "grey",
+    "color3": "black",
+    "color": ["lightblue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Peter",
+        "rating": 5,
+        "review": "A sleek and powerful smartphone with impressive performance and a stunning display."
+      },
+      {
+        "author": "Prakash",
+        "rating": 3,
+        "review": "The camera quality could be better, but the fast charging feature is a game changer for busy days on the go."
+      },
+      {
+        "author": "Banner",
+        "rating": 2,
+        "review": "Disappointing battery life and occasional lag make the Oneplus 9r a frustrating choice for heavy users."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Oneplus Nord CE2 Lite",
+    "description": "Introducing the OnePlus Nord CE 2 Lite - a sleek and powerful smartphone designed for those who demand cutting-edge technology in a stylish package. With lightning-fast performance and impressive features, this device is sure to elevate your mobile experience to the next level.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 18900,
+    "price2": 20900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 1980,
+    "src": "oneplus-images/oneplus_nord_ce2lite.png",
+    "color1": "lightblue",
+    "color2": "grey",
+    "color3": "black",
+    "color": ["lightblue", "grey"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Carol",
+        "rating": 5,
+        "review": "A sleek and budget-friendly option for those looking for a reliable smartphone with great features. The camera quality is impressive and the battery life is long-lasting, making it a solid choice for everyday use."
+      },
+      {
+        "author": "May",
+        "rating": 3,
+        "review": "While the performance may not be as snappy as higher-end models, the Oneplus Nord CE2 Lite still delivers a smooth experience with decent speed and responsiveness. The design is modern and appealing, but some users may find the display lacking in vibrancy compared to other smartphones in the same price range."
+      },
+      {
+        "author": "Ben",
+        "rating": 2,
+        "review": "Disappointingly, the Oneplus Nord CE2 Lite struggles with overheating issues and occasional lag, making it frustrating to use for extended periods of time. Additionally, the build quality feels a bit cheap and the speakers are not as loud as expected, leading to a lackluster multimedia experience."
+      }
+    ]
+  }
+]

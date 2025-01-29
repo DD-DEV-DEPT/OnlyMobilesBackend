@@ -1,0 +1,143 @@
+[
+  {
+    "phnTitle": "IPhone 16 Pro Max",
+    "description": "Experience the future of mobile technology with the iPhone 16 ProMax. This cutting-edge device combines sleek design with unrivaled performance, setting a new standard for innovation in the smartphone industry. Elevate your digital experience like never before with the iPhone 16 ProMax.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "256gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 144900,
+    "price2": 164900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 880,
+    "src": "apple-images/iphone_16promax.png",
+    "color": ["grey", "Violet", "Silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Abdul",
+        "rating": 5,
+        "review": "The iPhone 16 ProMax is an absolute powerhouse, with its stunning display and lightning-fast processing speed, I can't put it down!"
+      },
+      {
+        "author": "Venkat",
+        "rating": 4,
+        "review": "While the camera quality is top-notch, I experienced some battery drain issues with my iPhone 16 ProMax."
+      },
+      {
+        "author": "Vicky",
+        "rating": 2,
+        "review": "Unfortunately, the Face ID feature on my iPhone 16 ProMax stopped working after just a few weeks of use, causing major frustration and inconvenience."
+      }
+    ]
+  },
+  {
+    "phnTitle": "Galaxy S24 Ultra",
+    "description": "Introducing the Samsung S24 Ultra: a super sleek, cutting-edge marvel of technology, offering unparalleled performance and stunning visual display. Elevate your digital experience with this premium device that sets a new standard for excellence in the world of smart technology.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 99600,
+    "price2": 121600,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 400,
+    "src": "samsung-images/galaxy_s24_ultra.png",
+    "color1": "silver",
+    "color2": "black",
+    "color3": "grey",
+    "color": ["silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Shankar",
+        "rating": 5,
+        "review": "The Samsung s24 ultra is an absolute game-changer! The display is stunning and the user interface is incredibly intuitive."
+      },
+      {
+        "author": "Raj",
+        "rating": 3,
+        "review": "While the Samsung s24 ultra has impressive features, I did experience some lag when switching between apps."
+      },
+      {
+        "author": "Vetri",
+        "rating": 2,
+        "review": "Unfortunately, the battery life of the Samsung s24 ultra leaves much to be desired. I found myself constantly needing to recharge throughout the day."
+      }
+    ]
+  },
+  {
+    "phnTitle": "Oneplus 12",
+    "description": "Introducing the highly anticipated, cutting-edge Oneplus 12 - a technological marvel that redefines the boundaries of innovation and performance. Prepare to be captivated by its sleek design, lightning-fast processing, and unparalleled user experience. Get ready to experience the future of smartphones like never before with the Oneplus 12.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "256gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 57900,
+    "price2": 64900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 980,
+    "src": "oneplus-images/oneplus_12.png",
+    "color1": "green",
+    "color2": "grey",
+    "color3": "black",
+    "color": ["green", "grey", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Barnes",
+        "rating": 5,
+        "review": "The OnePlus 12 exceeded all my expectations with its lightning-fast performance and stunning camera quality. Definitely worth the investment!"
+      },
+      {
+        "author": "Blake",
+        "rating": 3,
+        "review": "The battery life on the OnePlus 12 is decent, but I wish it could last a bit longer. Overall, a solid smartphone option"
+      },
+      {
+        "author": "Shiva",
+        "rating": 2,
+        "review": "Not Upto the Expected level. price is too High"
+      }
+    ]
+  },
+  {
+    "phnTitle": "Xiaomi 14 Civi",
+    "description": "Introducing the Xiaomi 14 Civi: a sleek and sophisticated mobile powerhouse that redefines elegance in the palm of your hand. Experience the perfect balance of style and performance with this super smartphone.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "256gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 40900,
+    "price2": 49900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 980,
+    "src": "xiaomi-images/xiaomi_14_civi.png",
+    "color1": "grey",
+    "color2": "blue",
+    "color3": "black",
+    "color": ["grey", "blue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Shiva",
+        "rating": 5,
+        "review": "Xiaomi 14 Civi is a sleek and stylish mobile with a vibrant display, perfect for multitasking on the go!"
+      },
+      {
+        "author": "Prakash",
+        "rating": 3,
+        "review": "The Xiaomi 14 Civi boasts impressive camera quality and smooth performance, making it a solid choice for everyday use."
+      },
+      {
+        "author": "Jai",
+        "rating": 2,
+        "review": "Unfortunately, the battery life on the Xiaomi 14 Civi leaves much to be desired and may require frequent charging throughout the day."
+      }
+    ]
+  }
+]

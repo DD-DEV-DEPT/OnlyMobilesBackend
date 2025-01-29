@@ -1,0 +1,473 @@
+[
+  {
+    "phnTitle": "Galaxy S24 Ultra",
+    "description": "Introducing the Samsung S24 Ultra: a super sleek, cutting-edge marvel of technology, offering unparalleled performance and stunning visual display. Elevate your digital experience with this premium device that sets a new standard for excellence in the world of smart technology.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 99600,
+    "price2": 121600,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 400,
+    "src": "samsung-images/galaxy_s24_ultra.png",
+    "color1": "silver",
+    "color2": "black",
+    "color3": "grey",
+    "color": ["silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Shankar",
+        "rating": 5,
+        "review": "The Samsung s24 ultra is an absolute game-changer! The display is stunning and the user interface is incredibly intuitive."
+      },
+      {
+        "author": "Raj",
+        "rating": 3,
+        "review": "While the Samsung s24 ultra has impressive features, I did experience some lag when switching between apps."
+      },
+      {
+        "author": "Vetri",
+        "rating": 2,
+        "review": "Unfortunately, the battery life of the Samsung s24 ultra leaves much to be desired. I found myself constantly needing to recharge throughout the day."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy S23 Ultra",
+    "description": "The Samsung S23 Ultra is a super sleek and innovative device, boasting cutting-edge technology and unmatched performance. With its stunning display and lightning-fast processing power, this phone is truly in a league of its own.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 74999,
+    "price2": 84999,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 380,
+    "src": "samsung-images/galaxy_s23_ultra.png",
+    "color1": "silver",
+    "color2": "black",
+    "color3": "grey",
+    "color": ["grey", "silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Maran",
+        "rating": 5,
+        "review": "The Samsung s23 Ultra is a true powerhouse, with a stunning display and lightning-fast performance that never fails to impress. Pair that with its sleek design and top-notch camera quality, and you've got yourself a winner in the smartphone game."
+      },
+      {
+        "author": "Kader",
+        "rating": 3,
+        "review": "While the Samsung s23 Ultra shines in many areas, some users have reported minor issues with battery life and software glitches. Overall, it's a solid choice for those looking for a high-end device with a few minor drawbacks."
+      },
+      {
+        "author": "Aarif",
+        "rating": 2,
+        "review": "Unfortunately, the Samsung s23 Ultra falls short in terms of durability, with some users experiencing issues with the phone breaking easily. Additionally, the steep price point may be off-putting for those looking for a more budget-friendly option."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy S23",
+    "description": "Introducing the Samsung S23 - a super sleek and cutting-edge device that redefines innovation and style in the world of technology. With its impressive features and stunning design, this smartphone is a must-have for anyone looking to elevate their mobile experience to the next level.",
+    "ram1": "16gb",
+    "rom1": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 34950,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 240,
+    "src": "samsung-images/galaxy_s23.png",
+    "color1": "grey",
+    "color2": "blue",
+    "color3": "black",
+    "color": ["grey", "blue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Khan",
+        "rating": 5,
+        "review": "The Samsung s23 is a sleek and powerful phone that delivers great performance with its stunning display and fast processor. It's definitely a top choice for tech-savvy users."
+      },
+      {
+        "author": "Salman",
+        "rating": 3,
+        "review": "While the Samsung s23 has impressive features, I found the battery life to be average and the camera quality to be decent but not exceptional."
+      },
+      {
+        "author": "Sharukh",
+        "rating": 2,
+        "review": "Unfortunately, the Samsung s23 tends to overheat after prolonged use and the fingerprint sensor can be unreliable at times, making it frustrating to unlock the phone."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy Z Fold 6 ",
+    "description": "The Samsung Z Fold 6 is a revolutionary device that seamlessly combines cutting-edge technology with sleek design. Its innovative folding feature allows for a super immersive experience, making it a game-changer in the world of smartphones.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 142999,
+    "price2": 149999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 134,
+    "src": "samsung-images/galaxy_z_fold_6.png",
+    "color1": "silver",
+    "color2": "blue",
+    "color3": "white",
+    "color": ["silver", "grey"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Junaid",
+        "rating": 5,
+        "review": "The Galaxy Z Fold 6 is an absolute game-changer! The dual screens make multitasking a breeze and the sleek design is truly impressive."
+      },
+      {
+        "author": "Fawas",
+        "rating": 3,
+        "review": "While the camera quality is great, the battery life could be better on the Galaxy Z Fold 6. It's worth considering if you're a heavy user."
+      },
+      {
+        "author": "Fuwaas",
+        "rating": 2,
+        "review": "Unfortunately, the price of the Galaxy Z Fold 6 is quite steep for the average consumer. Additionally, the outer display could be more durable in everyday use."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy Z Flip 6 ",
+    "description": "Introducing the Samsung Z Flip 6 - the epitome of innovation and style in the world of smartphones. With its sleek foldable design and cutting-edge features, this device is the super companion for the modern tech enthusiast.",
+    "ram1": "16gb",
+    "rom1": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 69999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 680,
+    "src": "samsung-images/galaxy_z_flip_6.png",
+    "color1": "silver",
+    "color2": "green",
+    "color3": "white",
+    "color": ["lightgreen", "silver", "grey"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Riyaz",
+        "rating": 5,
+        "review": "The Galaxy Z Flip is sleek, stylish, and incredibly compact, fitting easily into any pocket. The foldable screen is smooth and the camera quality is top-notch."
+      },
+      {
+        "author": "Khan",
+        "rating": 3,
+        "review": "While the battery life could be better, the Galaxy Z Flip is a great phone for those looking for something new and innovative. The price point is high, but worth it for the unique design."
+      },
+      {
+        "author": "Moydin",
+        "rating": 2,
+        "review": "The Galaxy Z Flip's hinge can feel a bit flimsy at times, and the durability of the foldable screen is questionable. It's also prone to fingerprint smudges, which can be annoying for some users."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy A06",
+    "description": "Behold the Galaxy A06, a marvel of modern technology with its sleek design and cutting-edge features. Its powerful performance and stunning display are sure to elevate your digital experience to superlative heights.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 23999,
+    "price2": 27999,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 467,
+    "src": "samsung-images/galaxy_a06.png",
+    "color1": "silver",
+    "color2": "blue",
+    "color3": "black",
+    "color": ["grey", "silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Abdul",
+        "rating": 5,
+        "review": "The Galaxy A 06 is a sleek and stylish phone with impressive performance and features that make it worth the buy!"
+      },
+      {
+        "author": "Ravi",
+        "rating": 3,
+        "review": "While the Galaxy A 06 has a decent camera and battery life, it can sometimes lag with heavy usage and multitasking."
+      },
+      {
+        "author": "Puvi",
+        "rating": 2,
+        "review": "Unfortunately, the Galaxy A 06 has a tendency to overheat and the speaker quality is not up to par, which can be frustrating for users."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy A16 5G ",
+    "description": "Introducing the Galaxy A16 5G: a revolutionary blend of cutting-edge technology and sleek design. Experience lightning-fast connectivity and stunning visuals like never before with this supercharged device.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 16945,
+    "price2": 17945,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 560,
+    "src": "samsung-images/galaxy_a16.png",
+    "color1": "silver",
+    "color2": "white",
+    "color3": "grey",
+    "color": ["silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "kavitha",
+        "rating": 5,
+        "review": "The Galaxy A16 5G is a powerhouse of a phone, with lightning-fast speed and a stunning display that will make you never want to put it down."
+      },
+      {
+        "author": "Divya",
+        "rating": 3,
+        "review": "While the camera quality is decent, it could use some improvement to compete with other smartphones in its price range. Overall, a solid option for those looking to upgrade to a 5G device."
+      },
+      {
+        "author": "Bharath",
+        "rating": 2,
+        "review": "The battery life on the Galaxy A16 5G leaves much to be desired, requiring frequent charging throughout the day. Additionally, the phone can be prone to overheating during extended use."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy S24 Fe",
+    "description": "Introducing the Galaxy S24 FE: A supercharged blend of style and functionality, revolutionizing the smartphone experience in a sleek and sophisticated package. With cutting-edge technology and stunning design, the Galaxy S24 FE takes mobile innovation to new heights.",
+    "ram1": "16gb",
+    "rom1": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 59999,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 300,
+    "src": "samsung-images/galaxy_s24_fe.png",
+    "color1": "lightblue",
+    "color2": "silver",
+    "color3": "orange",
+    "color": ["lightblue", "silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Bharathi",
+        "rating": 5,
+        "review": "The Galaxy S24 FE is a game-changer with its stunning display and lightning-fast performance. It's a must-have for tech enthusiasts looking for the next big thing."
+      },
+      {
+        "author": "Siva",
+        "rating": 3,
+        "review": "While the Galaxy S24 FE is packed with amazing features, the battery life could be slightly better and the camera quality is not as impressive as expected."
+      },
+      {
+        "author": "Karthikeyan",
+        "rating": 2,
+        "review": "The Galaxy S24 FE is sleek and powerful, but it tends to overheat quickly during heavy usage, which can be frustrating for users. Additionally, the fingerprint sensor is not always reliable, causing delays in unlocking the device."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy A35",
+    "description": "Introducing the Galaxy A35 - a sophisticated fusion of style and innovation, boasting cutting-edge features and unrivaled performance. Explore the endless possibilities with this super-powered smartphone.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 21800,
+    "price2": 25800,
+    "ratingsAverage": 4,
+    "ratingQuantity": 560,
+    "src": "samsung-images/galaxy_a35.png",
+    "color1": "silver",
+    "color2": "black",
+    "color3": "grey",
+    "color": ["silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Sethupathi",
+        "rating": 5,
+        "review": "The Galaxy A35's vibrant display and sleek design make it a standout choice for tech-savvy individuals looking for a stylish smartphone with impressive performance."
+      },
+      {
+        "author": "Vijay",
+        "rating": 3,
+        "review": "While the Galaxy A35's camera quality and battery life are decent, some users may find the phone lacking in advanced features compared to other models in its price range."
+      },
+      {
+        "author": "Ragahav",
+        "rating": 2,
+        "review": "The Galaxy A35's software can be buggy at times, causing frustrating delays and glitches that can hinder overall user experience. Additionally, the phone's storage capacity may be insufficient for those who require a large amount of space for apps and media."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy A55",
+    "description": "The Galaxy A55 is a powerhouse of innovation, blending cutting-edge technology with sleek design for an unparalleled experience. Unleash the unlimited potential of this super device and elevate your everyday with its superior performance.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 36499,
+    "price2": 39499,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 780,
+    "src": "samsung-images/galaxy_a55.png",
+    "color1": "silver",
+    "color2": "black",
+    "color3": "grey",
+    "color": ["lightblue", "silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Baharkav",
+        "rating": 5,
+        "review": "The Galaxy a55 is a sleek and powerful device, perfect for multitasking and gaming on the go. The camera quality is top-notch, capturing every detail with stunning clarity."
+      },
+      {
+        "author": "Bharath",
+        "rating": 3,
+        "review": "While the battery life is decent, it could be improved for longer usage throughout the day. The screen resolution is good, but could be sharper for a more immersive viewing experience."
+      },
+      {
+        "author": "JD",
+        "rating": 2,
+        "review": "I found the interface to be quite cluttered and difficult to navigate, leading to frustration when trying to access specific features. The sound quality is also lacking, with muffled audio that detracts from the overall experience."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy F55",
+    "description": "The Galaxy F55 is a marvel of cutting-edge technology, boasting stunning visuals and lightning-fast performance. With its sleek design and innovative features, this smartphone is truly supercharged for the modern age.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 22999,
+    "price2": 23999,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 225,
+    "src": "samsung-images/galaxy_f55.png",
+    "color1": "silver",
+    "color2": "black",
+    "color3": "orange",
+    "color": ["silver", "black", "orange"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Indhumathi",
+        "rating": 5,
+        "review": "The Galaxy f55 is a game-changer with its sleek design and impressive camera quality. It's definitely worth the investment for any tech-savvy individual looking for a top-of-the-line smartphone."
+      },
+      {
+        "author": "Jeeva",
+        "rating": 3,
+        "review": "While the Galaxy f55 has excellent features, I did notice some occasional lag in performance which was a bit disappointing. Overall, still a solid choice for those in need of a reliable device."
+      },
+      {
+        "author": "Ramesh",
+        "rating": 2,
+        "review": "Unfortunately, the battery life on the Galaxy f55 is quite subpar, requiring frequent recharging throughout the day. The lack of a headphone jack also makes it inconvenient for those who prefer wired headphones."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy M14",
+    "description": "Introducing the Galaxy M14, a cutting-edge smartphone that redefines innovation and sophistication. With its sleek design, powerful performance, and stunning display, the Galaxy M14 is truly super in every way.",
+    "ram1": "4gb",
+    "ram2": "8gb",
+    "rom1": "64gb",
+    "rom2": "128gb",
+    "camera": "16mp & 50mp",
+    "price1": 8999,
+    "price2": 11999,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 240,
+    "src": "samsung-images/galaxy_m14.png",
+    "color1": "silver",
+    "color2": "blue",
+    "color3": "black",
+    "color": ["silver", "blue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Suresh",
+        "rating": 5,
+        "review": "The Galaxy m14 is an absolute powerhouse, delivering top-notch performance and stunning display quality in a sleek and stylish package. Its camera capabilities are truly impressive, capturing every moment in crystal-clear detail."
+      },
+      {
+        "author": "Santa",
+        "rating": 3,
+        "review": "While the Galaxy m14 excels in many areas, some users have reported occasional lag and performance issues with heavy multitasking. Additionally, the battery life could be better, requiring frequent recharging for heavy users."
+      },
+      {
+        "author": "Sathish",
+        "rating": 2,
+        "review": "Unfortunately, the Galaxy m14's fingerprint sensor can be finicky and unreliable at times, causing frustration for users trying to unlock their device quickly. The lack of expandable storage also limits the device's flexibility for users with large media libraries."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "Galaxy A14",
+    "description": "Introducing the Galaxy A14 - a revolutionary blend of sophistication and innovation that will sweep you off your feet. With its super sleek design and cutting-edge features, this smartphone is sure to elevate your tech game to new heights.",
+    "ram1": "4gb",
+    "ram2": "8gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 9499,
+    "price2": 13499,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 98,
+    "src": "samsung-images/galaxy_a14.png",
+    "color1": "purple",
+    "color2": "blue",
+    "color3": "black",
+    "color": ["purple", "blue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Nithish",
+        "rating": 5,
+        "review": "The Galaxy a14 is a sleek and stylish phone with impressive battery life and a vibrant display, perfect for on-the-go use."
+      },
+      {
+        "author": "Rahul",
+        "rating": 3,
+        "review": "While the camera quality is decent, it could be improved for better photo and video quality. Overall, a good budget-friendly option for everyday use."
+      },
+      {
+        "author": "Gokul",
+        "rating": 2,
+        "review": "The Galaxy a14 tends to lag and freeze at times, making it frustrating to use. Additionally, the storage capacity is quite limited, requiring frequent clearing of files."
+      }
+    ]
+  }
+]

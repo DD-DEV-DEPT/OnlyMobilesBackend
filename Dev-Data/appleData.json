@@ -1,0 +1,402 @@
+[
+  {
+    "phnTitle": "IPhone 16 Pro Max",
+    "description": "Experience the future of mobile technology with the iPhone 16 ProMax. This cutting-edge device combines sleek design with unrivaled performance, setting a new standard for innovation in the smartphone industry. Elevate your digital experience like never before with the iPhone 16 ProMax.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "256gb",
+    "rom2": "512gb",
+    "camera": "12mp & 50mp",
+    "price1": 144900,
+    "price2": 164900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 880,
+    "src": "apple-images/iphone_16promax.png",
+    "color": ["grey", "Violet", "Silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Abdul",
+        "rating": 5,
+        "review": "The iPhone 16 ProMax is an absolute powerhouse, with its stunning display and lightning-fast processing speed, I can't put it down!"
+      },
+      {
+        "author": "Venkat",
+        "rating": 4,
+        "review": "While the camera quality is top-notch, I experienced some battery drain issues with my iPhone 16 ProMax."
+      },
+      {
+        "author": "Vicky",
+        "rating": 2,
+        "review": "Unfortunately, the Face ID feature on my iPhone 16 ProMax stopped working after just a few weeks of use, causing major frustration and inconvenience."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 16",
+    "description": "Introducing the iPhone 16: a revolutionary device combining cutting-edge technology with unparalleled elegance. Experience the future in your hands like never before with the super sleek and sophisticated iPhone 16.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 75600,
+    "price2": 79900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 980,
+    "src": "apple-images/iphone_16.png",
+    "color": ["grey", "Violet", "blue", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Bose",
+        "rating": 5,
+        "review": "The iPhone 16 is a game-changer! The sleek design and powerful features make it a must-have for tech enthusiasts."
+      },
+      {
+        "author": "Williams",
+        "rating": 4,
+        "review": "The iPhone 16 is a solid upgrade with improved performance and camera quality, but lacks major innovation compared to previous models."
+      },
+      {
+        "author": "Rogers",
+        "rating": 2,
+        "review": "Disappointed with the battery life of the iPhone 16, constantly needing to recharge throughout the day. The high price tag doesn't justify its average performance."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 15 Pro Max",
+    "description": "Introducing the latest innovation from Apple - the iPhone 15 Pro Max! This cutting-edge device seamlessly combines sleek design with unmatched performance, setting a new standard for smartphone technology. Experience the future of mobile communication like never before with the iPhone 15 Pro Max.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 128900,
+    "price2": 154900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 1980,
+    "src": "apple-images/iphone_15_promax.png",
+    "color": ["grey", "black", "Silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Steve",
+        "rating": 5,
+        "review": "The iPhone 15 ProMax is a game-changer with its stunning display and incredibly fast performance. The camera quality is unparalleled, making every photo look like a professional shot"
+      },
+      {
+        "author": "Tony",
+        "rating": 3,
+        "review": "While the iPhone 15 ProMax is a fantastic device overall, I did experience some lag when multitasking and the battery life could be improved for heavy users."
+      },
+      {
+        "author": "Natasha",
+        "rating": 2,
+        "review": "I was disappointed with the lack of innovation in the design of the iPhone 15 ProMax. It feels like just a slight upgrade from the previous model and I expected more from Apple"
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 15",
+    "description": "Introducing the iPhone 15: A masterpiece of innovation and sophistication, redefining the boundaries of technology with its unparalleled design and cutting-edge features. Elevate your mobile experience to new heights with this superlative device that sets a new standard for excellence in the smartphone industry.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "12mp & 50mp",
+    "price1": 45999,
+    "price2": 62999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 680,
+    "src": "apple-images/iphone_15.png",
+    "color": ["white", "black", "Silver", "blue"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Bruce",
+        "rating": 5,
+        "review": "I was eagerly waiting for the release of the iPhone 15, and I can confidently say that it has exceeded my expectations in every way."
+      },
+      {
+        "author": "Clint",
+        "rating": 4,
+        "review": "The iPhone 15 dazzles with its refined design and impressive camera capabilities, making it a worthy upgrade for enthusiasts. However, some may find the improvements incrementally subtle if coming from recent models."
+      },
+      {
+        "author": "Blake",
+        "rating": 2,
+        "review": "The iPhone 15 feels more like a modest upgrade than a revolutionary leap, with underwhelming battery life and a price tag that doesn't quite match its performance. For the cost, I expected innovation that simply isn't there."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 14 Pro Max",
+    "description": "Introducing the iPhone 14 ProMax: A cutting-edge fusion of technology and elegance, redefining the possibilities of smartphone innovation. Immerse yourself in a world of unparalleled performance and style with this superlative device.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 134900,
+    "price2": 164900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 790,
+    "src": "apple-images/iphone_14_promax.png",
+    "color": ["grey", "violet", "Silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Scott",
+        "rating": 5,
+        "review": "The Apple iPhone 14 Pro Max is a game-changer with its stunning display and lightning-fast performance, making every day feel like a tech marvel. Its camera captures moments with breathtaking clarity, truly elevating my photography experience!"
+      },
+      {
+        "author": "Hope Van Dyne",
+        "rating": 4,
+        "review": "The iPhone 14 Pro Max dazzles with its stunning display and unparalleled camera capabilities, making it a powerhouse for both everyday users and photography enthusiasts. While it comes with a premium price tag, the user experience justifies every penny, setting a new standard in smartphone excellence."
+      },
+      {
+        "author": "Pym Van Dyne",
+        "rating": 2,
+        "review": "The iPhone 14 Pro Max feels more like a polished gimmick than a true upgrade, with sluggish performance and poor battery life that leaves me frustrated. For the price, I expected far better—a beautiful design can't mask its shortcomings."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 14",
+    "description": "Introducing the highly anticipated iPhone 14 - a sleek and sophisticated masterpiece of technology that redefines innovation and luxury in the world of smartphones. Immerse yourself in a world of cutting-edge features, unparalleled performance, and seamless design with the iPhone 14. Experience the future of mobile communication like never before with this superlative device.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 54900,
+    "price2": 60900,
+    "ratingsAverage": 4,
+    "ratingQuantity": 980,
+    "src": "apple-images/iphone_14.png",
+    "color": ["grey", "lightblue", "Silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Cassy",
+        "rating": 5,
+        "review": "Apple 14 has a sleek design and lightning-fast performance. The camera takes stunning photos and the battery life lasts all day."
+      },
+      {
+        "author": "Woo",
+        "rating": 4,
+        "review": "The screen resolution could be sharper and the phone tends to overheat with heavy usage."
+      },
+      {
+        "author": "Wong",
+        "rating": 2,
+        "review": "The price point is steep and the lack of a headphone jack is inconvenient for some users."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone SE",
+    "description": "Introducing the iPhone SE: A compact powerhouse with cutting-edge technology, delivering exceptional performance and style in the palm of your hand. Experience the perfect blend of innovation and elegance with this super sleek smartphone.",
+    "ram1": "16gb",
+    "rom1": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 47999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 994,
+    "src": "apple-images/iphone_se.png",
+    "color": ["red", "purple", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Stephen",
+        "rating": 5,
+        "review": "The iPhone SE is a powerhouse in a compact package, with lightning-fast performance and a great camera that rivals larger models."
+      },
+      {
+        "author": "Peter",
+        "rating": 3,
+        "review": "The battery life on the iPhone SE could be better, lasting just about a full day with moderate use before needing a recharge."
+      },
+      {
+        "author": "Pepper",
+        "rating": 2,
+        "review": "The screen size on the iPhone SE is definitely small, making it a bit challenging to type and view content compared to larger smartphones on the market."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 13 Pro Max",
+    "description": "The iPhone 13 Pro Max is a powerhouse of technology, boasting a stunning display and unparalleled performance. With its sleek design and cutting-edge features, this device is truly a superlative choice for those seeking the ultimate smartphone experience.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 45999,
+    "price2": 54999,
+    "ratingsAverage": 4,
+    "ratingQuantity": 1003,
+    "src": "apple-images/iphone_13_promax.png",
+    "color": ["lightblue", "black", "Silver"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Barnes",
+        "rating": 5,
+        "review": "The iPhone 13 Pro Max is an absolute powerhouse with its stunning camera capabilities and lightning-fast performance, making it a must-have for tech enthusiasts."
+      },
+      {
+        "author": "Sam Wilson",
+        "rating": 4,
+        "review": "While the iPhone 13 Pro Max offers impressive features, some users may find the hefty price tag a bit hard to justify for minor upgrades from previous models."
+      },
+      {
+        "author": "Hill",
+        "rating": 2,
+        "review": "Disappointingly, the battery life on the iPhone 13 Pro Max falls short of expectations, requiring frequent recharging throughout the day."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "iPhone 13",
+    "description": "Behold the sleek and powerful iPhone 13, a technological marvel that combines cutting-edge innovation with timeless elegance. Experience the supercharged performance and stunning display that will revolutionize how you interact with the world.",
+    "ram1": "4gb",
+    "ram2": "8gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 45900,
+    "price2": 52900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 980,
+    "src": "apple-images/iphone_13.png",
+    "color": ["cyan", "lightblue", "Silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Nick Fury",
+        "rating": 5,
+        "review": "The iPhone 13 is a sleek and powerful device that will definitely impress with its stunning camera quality and lightning-fast performance. Can't go wrong with this upgrade!"
+      },
+      {
+        "author": "Carol",
+        "rating": 4,
+        "review": "The battery life on the iPhone 13 is decent, but could definitely use some improvement for heavy users. Other than that, it's a solid choice for those looking for a reliable smartphone."
+      },
+      {
+        "author": "Peggy Carter",
+        "rating": 2,
+        "review": "Disappointed with the lack of any significant design changes on the iPhone 13 compared to its predecessor. The price tag is also quite high for minimal upgrades, which is a major letdown"
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 12 Pro Max",
+    "description": "The iPhone 12 Pro Max is a marvel of modern technology, delivering unparalleled performance and breathtaking design in one sleek package. With its advanced camera system and powerful A14 Bionic chip, this device sets the standard for excellence in the smartphone industry. Experience the future of mobile technology with the iPhone 12 Pro Max - a true superphone for the super user.",
+    "ram1": "8gb",
+    "ram2": "16gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 64999,
+    "price2": 99999,
+    "ratingsAverage": 3.5,
+    "ratingQuantity": 133,
+    "src": "apple-images/iphone_12_promax.png",
+    "color": ["grey", "Silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Sharon Carter",
+        "rating": 5,
+        "review": "The iPhone 12 Pro Max is a game-changer with its stunning design and incredible camera quality. I'm loving the larger screen for watching videos and playing games on the go!"
+      },
+      {
+        "author": "Maria Rambeau",
+        "rating": 3,
+        "review": "While the battery life is good, I wish it lasted a bit longer for heavy usage throughout the day. The phone can also feel a bit heavy after holding it for extended periods."
+      },
+      {
+        "author": "Rhodey",
+        "rating": 2,
+        "review": "I've had some issues with the Face ID not working consistently, leading to frustration when trying to unlock my phone quickly. The lack of a headphone jack is also a downside for those who still use wired headphones"
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 12 Mini",
+    "description": "Introducing the sleek and compact iPhone 12 mini, a powerhouse of technology packed into a super portable design. Experience the cutting-edge features of Apple's latest innovation in the palm of your hand.",
+    "ram1": "4gb",
+    "rom1": "128gb",
+    "camera": "16mp & 50mp",
+    "price1": 19999,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 8197,
+    "src": "apple-images/iphone_12_mini.png",
+    "color": ["violet", "Silver", "black"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Stark",
+        "rating": 5,
+        "review": "The iPhone 12 mini is a compact powerhouse, perfect for on-the-go lifestyles. Its sleek design and impressive camera capabilities make capturing memories a breeze."
+      },
+      {
+        "author": "Pepper Potts",
+        "rating": 3,
+        "review": "While the iPhone 12 mini is convenient for its size, some users may find the battery life a bit lacking for all-day use. However, with fast charging capabilities, this can be easily remedied"
+      },
+      {
+        "author": "Colson",
+        "rating": 2,
+        "review": "The iPhone 12 mini's small screen size may be a downside for those who prefer larger displays for watching videos or gaming. Additionally, the price point is on the higher side compared to other compact smartphones on the market."
+      }
+    ]
+  },
+
+  {
+    "phnTitle": "IPhone 12",
+    "description": "The iPhone 12 is a cutting-edge device that seamlessly intertwines style and performance, setting a new standard in the world of smartphones. With its sleek design and advanced features, the iPhone 12 is truly super in every way possible.",
+    "ram1": "4gb",
+    "ram2": "8gb",
+    "rom1": "128gb",
+    "rom2": "256gb",
+    "camera": "16mp & 50mp",
+    "price1": 49900,
+    "ratingsAverage": 4.5,
+    "ratingQuantity": 2978,
+    "src": "apple-images/iphone_12.png",
+    "color": ["blue", "Silver", "grey"],
+    "colorText": "",
+    "reviews": [
+      {
+        "author": "Banner",
+        "rating": 5,
+        "review": "The new iPhone 12 is sleek, fast, and the camera quality is top-notch, making it a must-have for tech lovers!"
+      },
+      {
+        "author": "Ned",
+        "rating": 4,
+        "review": "While the display and new design are impressive, the battery life could be better and the lack of a charger included is a bit disappointing."
+      },
+      {
+        "author": "Alex",
+        "rating": 2,
+        "review": "The lack of innovation in the iPhone 12 compared to previous models is underwhelming, and the high price tag may not be worth it for some users."
+      }
+    ]
+  }
+]
