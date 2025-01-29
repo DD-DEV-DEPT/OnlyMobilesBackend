@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const appleRouter = require('./routes/appleRouter');
 const oneplusRouter = require('./routes/oneplusRouter');
 const samsungRouter = require('./routes/samsungRouter');
@@ -10,6 +11,8 @@ const topPhonesRouter = require('./routes/topPhonesRouter');
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controllers/errorController');
 const app = express();
+
+app.use(cors());
 
 app.use(express.json()); //Middleware for accessing req.body Otherwise it will be Undefined
 
