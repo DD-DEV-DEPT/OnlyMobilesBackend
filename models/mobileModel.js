@@ -57,6 +57,9 @@ const mobileSchema = mongoose.Schema({
     type: String,
     default: '',
   },
+  color: {
+    type: [String],
+  },
   reviews: {
     type: [Object],
   },

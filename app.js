@@ -10,6 +10,7 @@ const topPhonesRouter = require('./routes/topPhonesRouter');
 
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controllers/errorController');
+const authRoutes = require('./routes/auth');
 const app = express();
 
 app.use(cors());
@@ -23,6 +24,9 @@ app.use('/images/oneplus', express.static('public/images/oneplus'));
 app.use('/images/apple', express.static('public/images/apple'));
 app.use('/images/xiaomi', express.static('public/images/xiaomi'));
 app.use('/images/logos', express.static('public/images/brandlogos'));
+
+// Authentication routes
+app.use('/api/auth', authRoutes);
 
 app.use('/top-phones', topPhonesRouter);
 

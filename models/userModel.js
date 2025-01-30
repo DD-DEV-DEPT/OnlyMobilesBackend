@@ -19,6 +19,8 @@ const userSchema = mongoose.Schema({
   cart: {
     type: [Object],
   },
+  otp: String,
+  otpExpires: Date,
 });
 
 const Users = mongoose.model('users', userSchema);

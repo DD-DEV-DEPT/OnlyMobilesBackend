@@ -8,6 +8,10 @@ router
   .get(userController.getAllUser)
   .post(userController.createUser);
 
+router.route('/login-account').post(userController.findUser);
+
+router.route('/update-cart').post(userController.updateUserCart);
+
 router
   .route('/:id')
   .get(userController.getUser)
